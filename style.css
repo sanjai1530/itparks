@@ -1,0 +1,30 @@
+
+body{
+    background-image: url("https://img.freepik.com/free-vector/blue-data-technology-background-vector-with-binary-code_53876-110871.jpg");
+    width: 100vw;
+    height: 15vh;
+    background-size: cover;
+    
+}
+
+
+
+
+.home{
+    color: rgb(247, 242, 242);
+    font-size: x-large;
+}
+.icon{
+    color: darkred;
+    text-align: center;
+    font-size: larger;
+    
+}
+button{
+    color: rgb(8, 8, 8);
+    background-color: red;
+    
+}
+.menu{
+    color: aliceblue;
+}
